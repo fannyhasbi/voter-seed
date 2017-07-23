@@ -1,4 +1,5 @@
 <?php
+defined('_BASEURL') or exit('No direct access allowed');
 
 class Home {
   public static function view(){

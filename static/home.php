@@ -1,3 +1,4 @@
+<?php defined('_BASEURL') or exit('No direct access allowed'); ?>
 <!DOCTYPE html>
 <html>
 <head>
